@@ -1,4 +1,4 @@
 # Simple Flutter Todo
-I build this project as a exersice.
+Simple todo app built with flutter and dart.
 # Showcase
 ![alt project showcase](intro.gif)
